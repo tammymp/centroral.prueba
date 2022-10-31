@@ -1,1 +1,2 @@
-# centroral.prueba
+# centroral
+pagina web de centroral
